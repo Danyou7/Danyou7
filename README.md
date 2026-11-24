@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Danu Tirta 👋
 
-<!--
-**Danyou7/Danyou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at Gunadarma University · Aspiring Data Scientist / Data Analyst · Bogor, Indonesia
 
-Here are some ideas to get you started:
+I like turning messy data into insights and models that actually help people decide things. Currently building my portfolio and looking for Data / ML internship opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 About Me
+🎓 Information Systems, Universitas Gunadarma — GPA 3.89 (expected graduation 2027)
+🧠 Graduate of Asah by Dicoding x Accenture — Machine Learning path (2026)
+🖥️ Former Lab Assistant at HPC Gunadarma (NVIDIA DGX team) — guided students in ML/DS practicums
+🏆 3rd place, Fesmaro 2025 Big Data Competition (team member)
+📚 Participant & assistant at LePKom Gunadarma Data Science course
+🌱 Currently learning: SQL, time-series forecasting
+🛠️ Tools & Tech
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+📂 Featured Projects
+Project	Description	Stack
+Food Price Forecasting	Analysis and forecasting of Indonesian food commodity prices — from EDA to time-series models	Python, Pandas, forecasting
+Telcosense	Capstone project (Asah Dicoding x Accenture) — I worked on the ML side in a 5-person team	Python, ML
+Fesmaro 2025	Big data competition solution — 3rd place	Python, data analysis
+📫 Let's Connect
+
+LinkedIn Email
+
+Show Image
